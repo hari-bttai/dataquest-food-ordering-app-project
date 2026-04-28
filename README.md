@@ -1,4 +1,4 @@
-# Food Ordering App
+# Dataquest Guided Project: Food Ordering App
 
 This project is a simple Python-based food ordering application built as a Datquest Guided Project. It demonstrates the use of dictionaries, custom functions, loops, and user input handling to simulate ordering food, managing a cart, and checking out.
 
